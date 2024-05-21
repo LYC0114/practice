@@ -1,0 +1,12 @@
+git inti 
+
+git clong [url]
+
+git status
+
+git add 文件名1 文件名2
+
+git reset 文件名1 文件名2
+
+
+
